@@ -1,0 +1,16 @@
+.idea/
+.sonar/
+.gradle/
+/build/
+/gradle/
+target/
+/gradlew
+gradlew.bat
+*.class
+*.iml
+*.iws
+/log/
+*.log
+*.ipr
+.svn/*
+*/.gitignore
